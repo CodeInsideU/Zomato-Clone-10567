@@ -1,0 +1,7 @@
+/server/node_modules
+/server/package-lock.json
+/server/.env
+/server/dist
+client_secret_1093757863142-2smgu18ucil1o1vkl1d1e1ti8kr3c0c3.apps.googleusercontent.com.json
+new_user_credentials.csv
+/dbCollections
